@@ -156,3 +156,7 @@ Successfully implemented:
 - Cross-stack parameter passing using `!GetAtt`
 - Secure Security Group referencing
 - Modular Infrastructure as Code design
+
+
+## Author: Suyash Dahitule
+
