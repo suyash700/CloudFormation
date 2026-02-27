@@ -1,3 +1,5 @@
+# Practical - 2 - CloudFormation
+
 ## 📝 Step-by-Step Implementation (Practical Execution)
 
 Below are the exact steps followed to complete this practical:
